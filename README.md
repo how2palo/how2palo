@@ -12,3 +12,5 @@ It is `Víctor Palomares` and I like to define myself as an `anarcho-pacifist` g
 ---
 
 <p align="center"><a href="https://github.com/how2palo" target="_blank"><img width="125px" src="./img/shirohige.png" align="center" alt="how2palo-Shirohige-Pirate" /></a></p>
+
+.
